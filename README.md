@@ -1,3 +1,3 @@
 # DR-
-DR# - New Programming Language
-Инцтрукция по добавлению 📖
+DR# - New Programming Language.
+Инцтрукция по добавлению 📖:
