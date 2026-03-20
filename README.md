@@ -1,3 +1,6 @@
 # DR-
 DR# - New Programming Language.
-Инцтрукция по добавлению 📖:
+    Инцтрукция 📖:
+   для запуска IDE:
+     rustc main.rs
+    Обязательно нужен Rust (компилятор rustc) 
